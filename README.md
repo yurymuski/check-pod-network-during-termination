@@ -1,5 +1,5 @@
 # check-pod-network-during-termination
-bash scipt for cheking networking during POD termination (from SIGTERM till SIGKILL)
+bash script for cheking networking during POD termination (from SIGTERM till SIGKILL)
 
 container: `ymuski/check-pod-network-during-termination`
 
